@@ -1,0 +1,6 @@
+Sales Dashboard Insights – Superstore Sales
+
+1. The North region recorded the highest overall sales across all months.
+2. Personal Care was the top-performing category with the highest sales and profitability.
+3. Home & Kitchen had the lowest sales among all categories, indicating a possible drop in customer interest or lower inventory.
+4. April was the peak month for sales, showing a significant spike compared to other months.
